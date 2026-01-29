@@ -51,8 +51,4 @@ Event handling
 Component rendering
 
 
-## 📦 How to Run the Project
 
-```bash
-npm install
-npm start
